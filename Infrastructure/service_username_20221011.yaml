@@ -1,0 +1,4 @@
+ServiceName: os-infra
+UserName: zhuchao
+Role: admin
+TimeLimit: 7
