@@ -1,4 +1,4 @@
-ServiceName: os-infra
+ServiceName: infra-hk-monitor-agent
 UserName: zhuchao
 Role: admin
 TimeLimit: 7
