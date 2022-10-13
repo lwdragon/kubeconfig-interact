@@ -19,7 +19,7 @@
   ~~~bash
   ServiceName: infra-scan-tools  # 申请kubeconfig的服务名称，服务名称模板见：doc/ServiceName.txt
   UserName: zhuchao99    # 用户名称；限制：由数字、小写字母组成，不能含有特殊字符，最长长度为20，不能包含大写字母。
-  Role: admin/developer/viewer # 申请角色；admin为拥有所有限制，developer为开发者权限， viewer只能查看日志 
+  Role: admin/developer/viewer # 申请角色；admin为拥有所有权限，developer为开发者权限，进入容器权限， viewer只能查看日志 
   TimeLimit: 7       # 时间限制；单位：天；限制：必须为数字类型，不能小于0。
   ~~~
 
