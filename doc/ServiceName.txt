@@ -306,6 +306,7 @@ radia-test-control
 robot-gitee-test
 openeuler-login-feature-test-environment
 omni-frontend-test
+opengauss-repo-verify-test
 kunpeng-om
 openlookeng-om
 om-metric-server
