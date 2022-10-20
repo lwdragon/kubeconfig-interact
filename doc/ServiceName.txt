@@ -138,6 +138,7 @@ openeuler-hk-repo-mirrorbits
 openeuler-hk-om-server
 openeuler-cn-north4-jenkins
 openeuler-website-portal
+openeuler-certificate-center-production-environment
 openeuler-2203ltscontribution
 openeuler-cce-hk-x86-cluster-monitor-agent
 openeuler-hk-website-v1
