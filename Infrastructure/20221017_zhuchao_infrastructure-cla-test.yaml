@@ -1,4 +1,4 @@
-ServiceName: tanggula-server
+ServiceName: community-scan-tools
 UserName: zhuchao
 Role: viewer
 TimeLimit: 3
