@@ -148,6 +148,7 @@ openeuler-hk-api-ingress
 openeuler-reproducible-production-environment
 openeuler-hk-meetingserver
 openeuler-arm-jenkins-cluster-monitor-agent
+openeuler-sbom-service-production-environment
 openeuler-mos-repo
 openlookeng-website-frontend
 openeuler-hk-patch-tracking
