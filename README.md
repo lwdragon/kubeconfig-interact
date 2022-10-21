@@ -1,4 +1,4 @@
-# kubeconfig-community
+# kubeconfig-interact
 
 ## 功能
 
@@ -14,7 +14,7 @@
   20221011_zhu_infra-scan-tools
   ~~~
 
-+ yaml文件内容参考模板文件： doc/20221011_zhu_infra-scan-tools.yaml文件，详细见：[模板文件](https://github.com/Open-Infra-Ops/kubeconfig-community/blob/main/doc/20221011_zhu_infra-scan-tools.yaml)
++ yaml文件内容参考模板文件： doc/20221011_zhu_infra-scan-tools.yaml文件，详细见：[模板文件](https://github.com/Open-Infra-Ops/kubeconfig-interact/blob/main/doc/20221011_zhu_infra-scan-tools.yaml)
 
   ~~~bash
   ServiceName: infra-scan-tools  # 申请kubeconfig的服务名称，服务名称模板见：doc/ServiceName.txt
@@ -23,7 +23,7 @@
   TimeLimit: 7       # 时间限制；单位：天；限制：必须为数字类型，不能小于0。
   ~~~
 
-+ ServiceName详细见： [ServiceName](https://github.com/Open-Infra-Ops/kubeconfig-community/blob/main/doc/ServiceName.txt)
++ ServiceName详细见： [ServiceName](https://github.com/Open-Infra-Ops/kubeconfig-interact/blob/main/doc/ServiceName.txt)
 
 2.用户需要向本仓库提交pr请求， 经管理员审核后即可合入， 合入后即向github绑定的邮箱发送邮件，而申请的kubeconfig文件见邮件附件。
 
