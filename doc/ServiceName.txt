@@ -33,6 +33,7 @@ mindspore-summary-2021-en
 robot-github-openlookeng
 robot-gitee-ascend
 mindspore-cn-north4-bot
+openeuler-ipb-production-environment
 mindspore-xihe-gitlab
 mindspore-cn-north4-repo-download-new
 robot-gitlab
