@@ -117,6 +117,7 @@ openeuler-website-backup
 openeuler-hk-cve-manager
 openeuler-qa-robot-production-environment
 openeuler-hk-package-manage
+openeuler-quickissue-production-environment
 openlookeng-website-backup
 openeuler-eulerland-game
 openeuler-hk-jenkins2
