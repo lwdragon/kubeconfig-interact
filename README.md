@@ -29,7 +29,7 @@
 
 ## 注意事项
 
-1.发起PR请求，默认为允许本项目及其服务使用github绑定的邮箱作为接受邮箱。
+1.发起PR请求，默认为允许本项目及其服务使用github绑定的邮箱作为接受邮箱, 详细设置问题参考：[git设置email](https://docs.github.com/cn/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address?platform=windows)。
 
 2.PR请求中的文件只能新增，不能修改， 详细解释：不能对之前创建的还在有效期的文件进行修改。
 
