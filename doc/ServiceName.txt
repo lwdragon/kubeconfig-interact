@@ -298,6 +298,7 @@ openeuler-website-test
 openeuler-sbom-server-test
 test-cluster-monitor-agent
 openeuler-opendesign-test
+email-auth-test-environment
 opengauss-website-revision-test
 omni-repository-test
 opengauss-tryme-website-test
