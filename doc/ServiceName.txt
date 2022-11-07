@@ -2,6 +2,7 @@ opengauss-hk-etherpad
 opengauss-hk-meetingbot
 opengauss-website-odd
 opengauss-tryme-backend
+opengauss-website-docs-production-environment
 opengauss-hk-website
 opengauss-hk-webrelease
 opengauss-hk-jenkins
@@ -39,6 +40,7 @@ mindspore-cn-north4-repo-download-new
 robot-gitlab
 mindspore-cn4-x86-new-monitor-agent
 covid-shanghai
+xihe-new-production-environment
 mindspore-cn-north4-repo
 mindspore-api-ingress
 helios-server
