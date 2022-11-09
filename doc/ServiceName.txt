@@ -187,6 +187,7 @@ mindspore-cn-north4-metric-server
 mindspore-cn-north4-arm-image-pull-secret-patch
 mindspore-cn-north4-arm-metric-server
 control-mindspore-beijing4-promethues-ingress
+mindspore-cn-north4-codeserver
 mindspore-cn-north4-cert-manager
 mindspore-cn-north4-secret-manager
 mindspore-cn-north4-fluentd
@@ -314,7 +315,7 @@ radia-test-control
 robot-gitee-test
 openeuler-login-feature-test-environment
 omni-frontend-test
-opengauss-repo-verify-test
+opengauss-repo-verify-test-environment
 kunpeng-om
 openlookeng-om
 om-metric-server
