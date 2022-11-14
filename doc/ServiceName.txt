@@ -145,6 +145,7 @@ openeuler-website-portal
 openeuler-certificate-center-production-environment
 openeuler-2203ltscontribution
 openeuler-cce-hk-x86-cluster-monitor-agent
+explainshell
 openeuler-hk-website-v1
 opengauss-summary-2021
 openeuler-hk-mail
