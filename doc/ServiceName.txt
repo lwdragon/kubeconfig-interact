@@ -159,6 +159,7 @@ openeuler-mos-repo
 openlookeng-website-frontend
 openeuler-hk-patch-tracking
 openeuler-hk-newyear-events
+southbound-production-environment
 openeuler-cn-north4-jenkins-2-internal-service
 openlookeng-bot-ingress
 openeuler-cn-north4-arm-cluster-monitor-agent
