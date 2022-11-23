@@ -119,6 +119,7 @@ opengauss-hk-jenkins
 opengauss-hk-monitor-agent
 opengauss-tryme-website
 opengauss-tryme-backend
+opengauss-repo-verify-production-environment
 opengauss-hk-etherpad
 mindspore-cn-north4-om-server
 mindspore-cn4-x86-monitor-agent
