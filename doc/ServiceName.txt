@@ -129,6 +129,7 @@ openeuler-hk-sync-bot
 openeuler-hk-repo
 openeuler-cn-north4-lts-dailybuild
 openeuler-ccs
+openeuler-usercenter-production-environment
 openeuler-hk-omni-manager-backend
 openlookeng-website-ingress
 openeuler-hk-osi-task-manager
