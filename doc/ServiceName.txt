@@ -63,6 +63,7 @@ mindspore-cn4-x86-monitor-agent
 mindspore-cn-north4-thirdparty-repo
 robot-gitee-cann
 mindspore-arm-slave-new
+mindspore-cn4-gitee-v8-token
 robot-gitee-oepkgs
 robot-gitee-edahelper
 mindspore-cn-north4-meetingserver
@@ -103,6 +104,7 @@ openeuler-cn-north4-ssh-tunnel
 openeuler-cn-north4-jenkins-2
 openeuler-hk-website-v2
 openeuler-hk-dailybuild-ingress
+openeuler-cn-north4-obs-ingress
 openeuler-hk-compass-ci
 opengauss-ccs
 openeuler-mos-api-ru
@@ -126,6 +128,7 @@ openeuler-eulerland-game
 openeuler-hk-jenkins2
 openlookeng-summary-2021-en
 openeuler-hk-sync-bot
+openeuler-hk-new-ssh-tunnel
 openeuler-hk-repo
 openeuler-cn-north4-lts-dailybuild
 openeuler-ccs
