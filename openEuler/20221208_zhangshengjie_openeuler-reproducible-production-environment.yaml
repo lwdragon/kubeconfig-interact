@@ -2,4 +2,4 @@ ServiceName: openeuler-reproducible-production-environment
 UserName: zhangshengjie
 Email: 879232933@qq.com
 Role: developer
-TimeLimit: 365
+TimeLimit: 30
