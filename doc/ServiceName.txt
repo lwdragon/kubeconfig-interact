@@ -293,6 +293,7 @@ openeuler-sbom-service-test-environment
 community-certification-system-test
 openlookeng-indextools-test
 openeuler-cve-manager-test-control
+discourse-test-environment
 om-webserver-test-environment
 openeuler-website-master-test-environment
 openeuler-usercenter-test
