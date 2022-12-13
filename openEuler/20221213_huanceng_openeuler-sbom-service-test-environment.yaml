@@ -1,0 +1,4 @@
+ServiceName: openeuler-sbom-service-test-environment
+UserName: huanceng
+Role: viewer
+TimeLimit: 365
