@@ -317,6 +317,7 @@ cvesa-test
 mindspore-test-website
 opengauss-playground-frontend-test
 openeuler-playground-backend-test
+majun-source-credible-consisitency-test-environment
 openeuler-mail2list-test
 mindspore-xihe-docs-test-control
 radia-test-control
