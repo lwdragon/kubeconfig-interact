@@ -40,6 +40,7 @@ mindspore-xihe-gitlab
 mindspore-cn-north4-repo-download-new
 robot-gitlab
 mindspore-cn4-x86-new-monitor-agent
+mindspore-xihe-gitlab-new
 covid-shanghai
 xihe-new-production-environment
 mindspore-cn-north4-repo
