@@ -102,6 +102,7 @@ openeuler-hk-omni-insight
 kunpeng-jenkins
 openeuler-hk-bot
 openeuler-cn-north4-ssh-tunnel
+openeuler-discourse
 openeuler-cn-north4-jenkins-2
 openeuler-hk-website-v2
 openeuler-hk-dailybuild-ingress
