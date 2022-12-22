@@ -238,6 +238,7 @@ infra-scan-tools
 control-fluentd
 control-om-grafana-ingress
 sunmao-tools
+majun-source-credible-consisitency-production-environment
 control-grafana
 opendesign-datapertus-control
 control-ingress
@@ -293,6 +294,7 @@ openeuler-ipb-test
 opendesign-datapertus-test
 openeuler-sbom-service-test-environment
 community-certification-system-test
+owncloud-server-test
 openlookeng-indextools-test
 openeuler-cve-manager-test-control
 discourse-test-environment
