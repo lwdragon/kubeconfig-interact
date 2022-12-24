@@ -285,6 +285,7 @@ openeuler-hk-fluentd
 openeuler-hk-ingress
 mindspore-repo-post-verify-test
 openlookeng-website-docs-test
+opengauss-usercenter-test
 opengauss-test-website
 openlookeng-test-website
 openeuler-website-docs-test-environment
@@ -299,6 +300,7 @@ openlookeng-indextools-test
 openeuler-cve-manager-test-control
 discourse-test-environment
 om-webserver-test-environment
+community-summary-test
 openeuler-website-master-test-environment
 openeuler-usercenter-test
 omni-manager-backend-test
