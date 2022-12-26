@@ -1,3 +1,4 @@
+opengauss-usercenter-production-environment
 opengauss-hk-etherpad
 opengauss-hk-meetingbot
 opengauss-website-odd
