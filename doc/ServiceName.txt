@@ -144,6 +144,7 @@ openeuler-doc-search-production-environment
 openeuler-hk-bugzilla
 nestos-website-production-environment
 openeuler-hk-cluster-monitor-agent
+openeuler-summary-new
 openeuler-hk-jenkins
 openeuler-beijing-bot
 openeuler-hk-repo-mirrorbits
