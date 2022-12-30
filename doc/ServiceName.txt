@@ -11,6 +11,7 @@ opengauss-hk-cibot
 opengauss-hk-new-cce-jenkins
 opengauss-hk-blog
 opengauss-hk-monitor-agent
+opengauss-summary-new
 opengauss-mail
 opengauss-hk-meetingserver
 moocstudio-opengauss-website
@@ -71,12 +72,14 @@ robot-gitee-edahelper
 mindspore-cn-north4-meetingserver
 mindspore-reproducible-production-environment
 mindspore-ci-tools
+mindspore-summary-new
 mindspore-cn-north4-newyear-events
 robot-gitee-opengauss
 xihe-test-v2
 robot-gitee
 mindspore-x86-slave-new
 openlookeng-bot
+openlookeng-summary-new
 openlookeng-tryme-test-monitor-agent
 openlookeng-repo
 openlookeng-tryme-cluster-monitor-agent
